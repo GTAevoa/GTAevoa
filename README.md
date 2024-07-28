@@ -4,6 +4,9 @@
 
 My profiles
 
-Languages and tools
+## Languages and tools
+![Python](https://img.shields.io/badge/Python-090909?style-socal&logo=python&LogoColor=3473A3)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style-socal&logo=javascript&LogoColor=E9D54D)
+![C++](https://img.shields.io/badge/CC++-090909?style-socal&logo=c%2b%2b&LogoColor=629CC)
 
 Follow Me
